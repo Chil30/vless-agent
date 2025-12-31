@@ -22,7 +22,7 @@ log_step() { echo -e "${CYAN}[*]${NC} $1"; }
 # 默认值
 SERVICE_NAME="vless-agent"
 INSTALL_DIR="/opt/vless-agent"
-GITHUB_REPO="/Chil30/vless-agent"  # 修改为你的 GitHub 仓库
+GITHUB_REPO="Chil30/vless-agent"  # 修改为你的 GitHub 仓库
 GITHUB_PROXY=""
 ENDPOINT=""
 TOKEN=""
